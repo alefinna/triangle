@@ -1,0 +1,10 @@
+/Users/alefinna/Documents/algorithms/triangle/triangle/bin/Debug/netcoreapp2.0/triangle.deps.json
+/Users/alefinna/Documents/algorithms/triangle/triangle/bin/Debug/netcoreapp2.0/triangle.runtimeconfig.json
+/Users/alefinna/Documents/algorithms/triangle/triangle/bin/Debug/netcoreapp2.0/triangle.runtimeconfig.dev.json
+/Users/alefinna/Documents/algorithms/triangle/triangle/bin/Debug/netcoreapp2.0/triangle.dll
+/Users/alefinna/Documents/algorithms/triangle/triangle/bin/Debug/netcoreapp2.0/triangle.pdb
+/Users/alefinna/Documents/algorithms/triangle/triangle/obj/Debug/netcoreapp2.0/triangle.csproj.CoreCompileInputs.cache
+/Users/alefinna/Documents/algorithms/triangle/triangle/obj/Debug/netcoreapp2.0/triangle.AssemblyInfoInputs.cache
+/Users/alefinna/Documents/algorithms/triangle/triangle/obj/Debug/netcoreapp2.0/triangle.AssemblyInfo.cs
+/Users/alefinna/Documents/algorithms/triangle/triangle/obj/Debug/netcoreapp2.0/triangle.dll
+/Users/alefinna/Documents/algorithms/triangle/triangle/obj/Debug/netcoreapp2.0/triangle.pdb
